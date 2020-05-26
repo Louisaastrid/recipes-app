@@ -80,8 +80,8 @@ dactylographies /
 .nuxt
 
 # rollup.js sortie de build par défaut
-#dist /
-dist/main.js
+dist /
+
 
 # Décommentez la ligne publique si votre projet utilise Gatsby
 # https://nextjs.org/blog/next-9-1#public-directory-support
